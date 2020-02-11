@@ -1,6 +1,6 @@
 ---
 title: Elisabeth Harringer, Violine
-img: me76q.jpg
+img: lisa.jpg
 ---
 Geboren 1974 in Linz. Sie studierte an der Universität für Musik und darstellende Kunst in Wien bei Prof. Samohyl und Prof. Pospichal und anschließend an der Musikhochschule Köln/Aachen bei Ch. A. Linale.
 

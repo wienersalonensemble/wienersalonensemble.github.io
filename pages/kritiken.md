@@ -1,6 +1,6 @@
 ---
 title: Kritiken
-img: Lisa15.jpg
+img: kritiken.jpg
 ---
 
 * Garmisch-Partenkirchner Tagblatt (Jannuar 2009)
