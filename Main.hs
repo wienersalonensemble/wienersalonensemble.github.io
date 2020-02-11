@@ -5,7 +5,6 @@ module Main where
 import Hakyll
 import Text.Pandoc
 import Data.Monoid (mappend)
-import qualified Data.Map as M
 
 postCtx :: Context String
 postCtx = dateField "date" "%B %e, %Y" `mappend` defaultContext
@@ -31,9 +30,6 @@ pages = do
     compile $ compiler
       >>= loadAndApplyTemplate "templates/page.html" postCtx
       >>= relativizeUrls
-
-dropPagesPrefix :: Routes
-dropPagesPrefix = gsubRoute "pages/" $ const ""
 
 templates :: Rules ()
 templates = match "templates/*" $ compile templateCompiler
