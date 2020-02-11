@@ -28,7 +28,7 @@ img: konzerte.jpg
 * Affoltern am Albis La Marotte, 31.12.2009
 * Meggenhorn 30.12.2009
 * Schwanden, Gemeindestube Schwanden, Teekonzert, 27.12.2009, 16:00 Uhr
-* Payerne Schubert, Streichquintett C-Dur, D 956 mit Xavier Piagnet, Violoncello, 06.09.2009
+* Payerne Schubert, Streichquintett C-Dur, D 956 mit Xavier Pignat, Violoncello, 06.09.2009
 * Garmisch-Partenkirchen Kongresshaus, Olympia-Saal 04.01.2009, 18:00 Uhr
 * Privates Konzert, Zürich-Wollishofen, 14.12.2008, 14:30 Uhr
 * Zürich Tonhalle, Gönnerkonzert, 14.11.2008, 18:00 Uhr

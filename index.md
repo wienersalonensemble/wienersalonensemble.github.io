@@ -1,6 +1,6 @@
 ---
 title: Wiener Musik
-img: Lisa10.jpg
+img: index.jpg
 ---
 Leichtigkeit, Melancholie, Virtuosentum und musikalischer Schwung; diese Zutaten verbindet das Wiener Salon Ensemble zu einer anregenden Wiener Melange. Von Wiener Musik geht ein ganz besonderer Duft aus, eine melancholische Aura von nostalgischer Zartbittersüsse. Wiener Musik ist ein Genre für sich – ein ganzes Lebensgefühl. Wiener Musik lockt und verführt. Die Walzer, Ländler und Polkas erzählen Herzensgeschichten, sie klagen voller Wehmut, schwärmen vom grossen Glückgefühl, erzählen vom Karnevalstreiben und militärischen Schlachten. Scherz und Schmerz stehen nebeneinander, ebenso wie ein leidenschaftlicher Frohsinn und die Lust am leicht Morbiden. Wiener Musik verbindet – zwischen den Zeiten und den Herzen.
 
