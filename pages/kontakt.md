@@ -4,4 +4,8 @@ img: repertoire.jpg
 ---
 
 ### Email
-[info@wienersalonensemble.ch](mailto:info@wienersalonensemble.ch)
+[lisah@gmx.ch](mailto:lisah@gmx.ch)
+[tel: 0787833805](tel:+787833805)
+
+Bienenstrasse 11
+8004 Zürich
